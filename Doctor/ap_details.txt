@@ -1,0 +1,3 @@
+3001,1001,Sai,Kiran,101,Sampath,Kumar,Neurology,25/08/2022,10:30
+3002,1002,Sushma,Raj,102,Ananay,Mahajan,Dermology,25/08/2022,11:20
+3003,1003,Siva,Phani,103,Swarang,Dani,Psychology,26/08/2022,12:00
